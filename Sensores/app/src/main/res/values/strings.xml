@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="accelerometerBtn_label">Acelerómetro</string>
+    <string name="listBtn_label">Listado</string>
+    <string name="exitBtn_label">Salir</string>
+</resources>

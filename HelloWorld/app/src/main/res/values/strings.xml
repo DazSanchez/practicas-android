@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hola mundo</string>
+    <string name="name_label">Dame tu nombre</string>
+    <string name="name_hint">Aquí va tu nombre</string>
+    <string name="greeting_btn">Saludo</string>
+    <string name="exit_btn">Salir</string>
+    <string name="welcome_title">Bienvenido</string>
+    <string name="welcome_message">Digamos todos juntos hola mundo</string>
+    <string name="back_btn">Regresar</string>
+</resources>
